@@ -75,13 +75,20 @@ Cada lista encadeada é ordenada individualmente utilizando o algoritmo **QuickS
 
 ```text
 .
-├── main.c                   # Código-fonte principal
-├── nomes.txt                # Arquivo com os nomes (externo, fornecido)
-├── grafico.txt              # Arquivo gerado com a frequência por chave
-├── histograma.png           # Imagem da distribuição gerada
-├── QuickSort.gif            # Ilustração do método de ordenação
-├── Problema Trabalho Final ED.pdf   # Descritivo com regras e objetivos do professor
-├── README.md                # Relatório e documentação do projeto
+├── main.c
+# Código-fonte principal
+├── nomes.txt
+# Arquivo com os nomes (externo, fornecido)
+├── grafico.txt
+# Arquivo gerado com a frequência por chave
+├── histograma.png
+# Imagem da distribuição gerada
+├── QuickSort.gif
+# Ilustração do método de ordenação
+├── Problema Trabalho Final ED.pdf
+# Descritivo com regras e objetivos do professor
+├── README.md
+# Relatório e documentação do projeto
 ```
 
 ---
